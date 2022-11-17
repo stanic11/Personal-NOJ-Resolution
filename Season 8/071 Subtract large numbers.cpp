@@ -3,7 +3,12 @@
 #include <stdlib.h>
 #include <iostream>
 /*
+Write a program to implement number1 - number2.
+The number of digits of the two numbers is nearly one hundred. 
+You need to consider the case of positive and negative numbers.
 This source is able to be simplified in theoretically.
+*/
+/*
 However,I am lazy xdddd.
 You can use some function to simplified the code.
 Bug known:The array may be out of bounds while using"for"
